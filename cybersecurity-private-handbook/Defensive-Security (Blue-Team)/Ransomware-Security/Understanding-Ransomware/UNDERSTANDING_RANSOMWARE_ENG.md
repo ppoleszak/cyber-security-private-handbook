@@ -34,10 +34,6 @@ Typically, the easiest way to recognize a ransomware infection is by the ransom 
 - You receive error messages when trying to open files.
 - You notice unknown processes running in Task Manager.
 
-### 2.3 How Can I Protect Myself?
-
-The best way to protect against ransomware is prevention. Here are some tips that will help you avoid infection
-
 ## 3. Types of Ransomware
 
 ### 3.1 Encrypting Ransomware (crypto-ransomware)

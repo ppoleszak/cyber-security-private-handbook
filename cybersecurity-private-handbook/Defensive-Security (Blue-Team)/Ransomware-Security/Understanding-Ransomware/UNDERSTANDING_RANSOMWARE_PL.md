@@ -34,10 +34,6 @@ Zwykle, najłatwiej rozpoznać infekcję ransomware po komunikacie o okupie, kt�
 - Otrzymujesz komunikaty o błędach podczas próby otwarcia plików.
 - Zauważasz nieznane procesy działające w Menedżerze zadań.
 
-### 2.3 Jak mogę się chronić?
-
-Najlepszym sposobem ochrony przed ransomware jest zapobieganie. Oto kilka wskazówek, które pomogą Ci uchronić się przed infekcją
-
 
 ## 3 Typy ransomware
 
