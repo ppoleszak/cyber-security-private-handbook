@@ -1,4 +1,4 @@
-# Rozdział 5: Utwierdzanie sieci (Network Hardening)
+# Rozdział: Utwierdzanie sieci (Network Hardening)
 
 Utwierdzanie sieci, znane również jako "Network Hardening", to proces polegający na zwiększeniu bezpieczeństwa sieci poprzez wykrywanie i eliminację różnych luk bezpieczeństwa, które mogą zostać wykorzystane do zagrożenia integralności, dostępności czy poufności sieci. Proces ten obejmuje szereg strategii, technik i najlepszych praktyk, których celem jest zminimalizowanie podatności sieci na ataki, zarówno zewnętrzne, jak i wewnętrzne.
 
