@@ -1,4 +1,4 @@
-# Rozdział 1: Bezpieczeństwo Informacji
+# Rozdział: Bezpieczeństwo Informacji
 
 Bezpieczeństwo informacji odnosi się do zestawu zasad i praktyk zaprojektowanych w celu ochrony informacji - danych od nieautoryzowanego dostępu, modyfikacji, usunięcia, ujawnienia, przeniesienia lub zniszczenia. Jest to fundamentalna dziedzina w dziedzinie cybersecurity, która koncentruje się na trzech podstawowych zasadach, znanych jako triada CIA: poufność, integralność i dostępność.
 
