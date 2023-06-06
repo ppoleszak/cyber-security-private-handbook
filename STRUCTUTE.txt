@@ -1,0 +1,110 @@
+Cybersecurity-Handbook
+    ├── Fundamentals
+    │   ├── Networking-Basics
+    │   │   ├── Network-Protocols
+    │   │   ├── Network-Architecture
+    │   │   └── Network-Devices
+    │   ├── Computer-Systems
+    │   │   ├── Operating-Systems
+    │   │   ├── File-Systems
+    │   │   └── System-Administration
+    │   ├── Cryptography
+    │   │   ├── Symmetric-Encryption
+    │   │   ├── Asymmetric-Encryption
+    │   │   └── Cryptographic-Hashing
+    │   └── Security-Concepts
+    │       ├── Confidentiality-Integrity-Availability
+    │       ├── Risk-Management
+    │       └── Defense-in-Depth
+    ├── Threats-and-Attacks
+    │   ├── Malware
+    │   │   ├── Viruses-and-Worms
+    │   │   ├── Trojans-and-Ransomware
+    │   │   └── Spyware-and-Adware
+    │   ├── Phishing-and-Social-Engineering
+    │   │   ├── Email-Phishing
+    │   │   ├── Vishing
+    │   │   └── Impersonation-Attacks
+    │   ├── Advanced-Persistent-Threats
+    │   │   ├── Nation-State-Attacks
+    │   │   ├── Cyber-Espionage
+    │   │   └── Organized-Cybercrime
+    │   └── Insider-Threats
+    │       ├── Unintentional-Insider-Threats
+    │       └── Malicious-Insider-Threats
+    ├── Defense-Strategies
+    │   ├── Network-Hardening
+    │   │   ├── Firewall-Configuration
+    │   │   ├── Intrusion-Detection-Systems
+    │   │   └── Virtual-Private-Networks
+    │   ├── Application-Security
+    │   │   ├── Secure-Code-Practices
+    │   │   ├── Input-Validation
+    │   │   └── Code-Review-Processes
+    │   ├── Cloud-Security
+    │   │   ├── Data-Protection-in-the-Cloud
+    │   │   ├── Secure-Cloud-Configuration
+    │   │   └── Cloud-Access-Security-Brokers
+    │   ├── Endpoint-Security
+    │   │   ├── Antivirus-Software
+    │   │   ├── Patch-Management
+    │   │   └── Secure-Configuration
+    │   └── Ransomware-Security
+    │       ├── Ransomware-Detection
+    │       ├── Backup-and-Recovery-Strategies
+    │       └── User-Education
+    ├── Tools-and-Techniques
+    │   ├── Encryption-and-Cryptography-Tools
+    │   │   ├── PGP
+    │   │   ├── Hashcat
+    │   │   └── TrueCrypt
+    │   ├── Firmware-Analysis-Tools
+    │   │   ├── Binwalk
+    │   │   ├── Firmware-Extraction-Tools
+    │   │   └── UEFI-Tools
+    │   ├── Metadata-Analysis-Tools
+    │   │   ├── ExifTool
+    │   │   ├── Metadata-Anonymization-Toolkit
+    │   │   └── Ghiro
+    │   ├── Network-Analysis-Tools
+    │   │   ├── Wireshark
+    │   │   ├── Tcpdump
+    │   │   └── Network-Minor
+    │   ├── Pentest-Tools
+    │   │   ├── Nmap
+    │   │   ├── Metasploit
+    │   │   └── Burp-Suite
+    │   └── Web-Analysis-Tools
+    │       ├── OWASP-ZAP
+    │       ├── Wapiti
+    │       └── SQLMap
+    ├── Compliance-and-Standards
+    │   ├── ISO-27001
+    │   │   ├── Scope-of-ISO-27001
+    │   │   ├── Controls-and-Objectives
+    │   │   └── Certification-Process
+    │   ├── PCI-DSS
+    │   │   ├── Scope-of-PCI-DSS
+    │   │   ├── Compliance-Requirements
+    │   │   └── Compliance-Assessment
+    │   └── GDPR
+    │       ├── Personal-Data-Protection
+    │       ├── Rights-of-Data-Subjects
+    │       └── Compliance-Requirements
+    └── Special-Topics
+        ├── IoT-Security
+        │   ├── IoT-Device-Vulnerabilities
+        │   ├── IoT-Networks-Security
+        │   └── IoT-Data-Protection
+        ├── Mobile-Security
+        │   ├── Mobile-Device-Management
+        │   ├── Mobile-App-Security
+        │   └── Mobile-Network-Security
+        ├── Incident-Response
+        │   ├── Incident-Detection
+        │   ├── Incident-Response-Plan
+        │   └── Post-Incident-Analysis
+        └── Cybersecurity-Laws-and-Ethics
+            ├── Laws-and-Regulations
+            ├── Ethical-Hacking
+            └── Privacy-and-Ethics
