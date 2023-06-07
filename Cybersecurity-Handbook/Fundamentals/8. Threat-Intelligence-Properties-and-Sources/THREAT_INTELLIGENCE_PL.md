@@ -38,6 +38,6 @@ Otwarte źródła odnoszą się do danych, które są dostępne do użycia bez s
 - Spamhaus
 - SANS ISC Suspicious Domains
 
-## Otwarta Inteligencja (OSINT)
+## Open-Source Inteligencja (OSINT)
 
-Otwarta Inteligencja, czyli OSINT, to metody zdobywania informacji o osobie lub organizacji za pomocą publicznych rejestrów, stron internetowych i mediów społecznościowych. Te techniki są często wykorzystywane do zdobywania informacji na temat potencjalnych zagrożeń.
+Open-Source Intelligence, czyli OSINT, to metody zdobywania informacji o osobie lub organizacji za pomocą publicznych rejestrów, stron internetowych i mediów społecznościowych. Te techniki są często wykorzystywane do zdobywania informacji na temat potencjalnych zagrożeń.
