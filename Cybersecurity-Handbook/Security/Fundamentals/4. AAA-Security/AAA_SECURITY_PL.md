@@ -1,6 +1,6 @@
 # Rozdział: Trójka A (AAA) Bezpieczeństwa
 
-Trójka A, znana również jako AAA, odnosi się do trzech kluczowych elementów bezpieczeństwa: uwierzytelniania (Authentication), autoryzacji (Authorization) oraz kontroli dostępu (Accounting/Auditing). AAA jest ramą bezpieczeństwa kontrolującą dostęp do zasobów komputerowych, egzekwującą polityki i audytującą użycie.
+Trójka A, znana również jako AAA, odnosi się do trzech kluczowych elementów bezpieczeństwa: uwierzytelniania (Authentication), autoryzacji (Authorization) oraz kontroli dostępu (Accounting/Auditing). AAA jest ramą bezpieczeństwa kontrolującą dostęp do zasobów komputerowych, egzekwującą polityki i audyty wykorzystania.
 
 ## 1 Uwierzytelnianie (Authentication)
 
