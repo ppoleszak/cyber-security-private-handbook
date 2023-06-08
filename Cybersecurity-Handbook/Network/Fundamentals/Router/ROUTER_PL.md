@@ -6,7 +6,7 @@ Routery mogą przyjmować różne formy i służyć różnym celom, ale najczę�
 
 Sieć rozległa (WAN) natomiast, to sieć o dużym zasięgu, rozprzestrzeniająca się na dużym obszarze geograficznym. Duże organizacje i firmy działające w wielu lokalizacjach na terenie kraju, na przykład, będą potrzebować oddzielnych sieci LAN dla każdej lokalizacji, które następnie łączą się z innymi sieciami LAN, tworząc sieć WAN. Z racji swojej dużej skali, sieć WAN często wymaga zastosowania wielu routerów i przełączników sieciowych.
 
-*Przełącznik sieciowy przesyła pakiety danych między grupami urządzeń w tej samej sieci, podczas gdy router przekazuje dane między różnymi sieciami.
+Przełącznik sieciowy przesyła pakiety danych między grupami urządzeń w tej samej sieci, podczas gdy router przekazuje dane między różnymi sieciami.
 
 ### 1 Jak działa router?
 
