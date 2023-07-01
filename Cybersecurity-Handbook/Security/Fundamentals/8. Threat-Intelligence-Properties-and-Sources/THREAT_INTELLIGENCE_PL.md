@@ -1,18 +1,18 @@
 # Rozdział: Właściwości i Źródła Analizy Zagrożeń
 
-Analiza zagrożeń pełni kluczową rolę w utrzymaniu bezpieczeństwa cyfrowego. Wiedza o potencjalnych zagrożeniach, ich źródłach i metodach działania jest bezcennym zasobem dla każdej organizacji. Aby efektywnie korzystać z tych zasobów, musimy zrozumieć kluczowe właściwości i źródła informacji na temat zagrożeń.
+Wiedza o potencjalnych zagrożeniach, ich źródłach i metodach działania jest bezcennym zasobem dla każdej organizacji. Aby efektywnie korzystać z tych zasobów, trzeba zrozumieć kluczowe właściwości i źródła informacji na temat zagrożeń.
 
 ## Aktualność
 
-Aktualność jest kluczową cechą źródła informacji o zagrożeniach. Informacje o zagrożeniach muszą być na bieżąco, aby zapewnić skuteczne przeciwdziałanie. W świecie cyberbezpieczeństwa, gdzie metody ataku szybko się zmieniają, informacje sprzed kilku miesięcy mogą już być nieaktualne.
+Informacje o zagrożeniach muszą być na bieżąco, aby zapewnić skuteczne przeciwdziałanie. W świecie cyberbezpieczeństwa, gdzie metody ataku szybko się zmieniają, informacje sprzed kilku miesięcy mogą już być nieaktualne.
 
 ## Trafność
 
-Trafność jest kolejną istotną cechą. Informacje o zagrożeniach, aby były użyteczne, muszą pasować do konkretnych przypadków użycia. Na przykład, informacje o atakach na infrastrukturę sieciową mogą nie być przydatne dla organizacji, która skupia się na ochronie swoich baz danych.
+Informacje o zagrożeniach, aby były użyteczne, muszą pasować do konkretnych przypadków użycia. Na przykład, informacje o atakach na infrastrukturę sieciową mogą nie być przydatne dla organizacji, która skupia się na ochronie swoich baz danych.
 
 ## Dokładność
 
-Dokładność informacji o zagrożeniach jest niezwykle ważna. Nieprawidłowe lub niekompletne informacje mogą prowadzić do niewłaściwych decyzji bezpieczeństwa, które z kolei mogą prowadzić do zwiększonego ryzyka ataku.
+Nieprawidłowe lub niekompletne informacje mogą prowadzić do niewłaściwych decyzji bezpieczeństwa, które z kolei mogą prowadzić do zwiększonego ryzyka ataku.
 
 ## Poziomy Pewności
 
